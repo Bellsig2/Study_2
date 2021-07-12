@@ -17,5 +17,7 @@ public class Test10 {
 		System.out.println(input);
 		System.out.println(output);
 		
+		//Github 사용하기
+		//Code 추가
 	}
 }
